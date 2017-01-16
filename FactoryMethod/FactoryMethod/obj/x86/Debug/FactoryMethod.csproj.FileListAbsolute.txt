@@ -1,0 +1,9 @@
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\FactoryMethod\Factory\bin\Debug\FactoryMethod.exe
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\FactoryMethod\Factory\bin\Debug\FactoryMethod.pdb
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\FactoryMethod\Factory\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\FactoryMethod\Factory\obj\x86\Debug\FactoryMethod.exe
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\FactoryMethod\Factory\obj\x86\Debug\FactoryMethod.pdb
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\FactoryMethod\FactoryMethod\obj\x86\Debug\FactoryMethod.exe
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\FactoryMethod\FactoryMethod\obj\x86\Debug\FactoryMethod.pdb
+C:\My Archives\Microsoft\Training Kits\Demos\Design Patterns\FactoryMethod\FactoryMethod\obj\x86\Debug\FactoryMethod.exe
+C:\My Archives\Microsoft\Training Kits\Demos\Design Patterns\FactoryMethod\FactoryMethod\obj\x86\Debug\FactoryMethod.pdb

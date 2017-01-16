@@ -1,0 +1,10 @@
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\Facade\Facade\bin\Debug\Facade.exe
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\Facade\Facade\bin\Debug\Facade.pdb
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\Facade\Facade\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\Facade\Facade\obj\x86\Debug\Facade.exe
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\Facade\Facade\obj\x86\Debug\Facade.pdb
+C:\My Archives\Microsoft\Training Kits\Demos\Design Patterns\Facade\Facade\obj\x86\Debug\Facade.exe
+C:\My Archives\Microsoft\Training Kits\Demos\Design Patterns\Facade\Facade\obj\x86\Debug\Facade.pdb
+C:\My Archives\Microsoft\Training Kits\Demos\Design Patterns\Facade\Facade\bin\Debug\Facade.exe
+C:\My Archives\Microsoft\Training Kits\Demos\Design Patterns\Facade\Facade\bin\Debug\Facade.pdb
+C:\My Archives\Microsoft\Training Kits\Demos\Design Patterns\Facade\Facade\obj\x86\Debug\ResolveAssemblyReference.cache

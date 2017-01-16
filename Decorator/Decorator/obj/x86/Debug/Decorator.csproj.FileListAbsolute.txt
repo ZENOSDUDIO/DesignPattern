@@ -1,0 +1,5 @@
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\Decorator\Decorator\bin\Debug\Decorator.exe
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\Decorator\Decorator\bin\Debug\Decorator.pdb
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\Decorator\Decorator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\Decorator\Decorator\obj\x86\Debug\Decorator.exe
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\Decorator\Decorator\obj\x86\Debug\Decorator.pdb

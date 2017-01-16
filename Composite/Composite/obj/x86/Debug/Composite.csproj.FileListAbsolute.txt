@@ -1,0 +1,5 @@
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\Composite\Composite\bin\Debug\Composite.exe
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\Composite\Composite\bin\Debug\Composite.pdb
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\Composite\Composite\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\Composite\Composite\obj\x86\Debug\Composite.exe
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\Composite\Composite\obj\x86\Debug\Composite.pdb

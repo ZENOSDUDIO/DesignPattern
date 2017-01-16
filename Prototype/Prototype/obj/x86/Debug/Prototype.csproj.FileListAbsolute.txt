@@ -1,0 +1,5 @@
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\Prototype\Prototype\bin\Debug\Prototype.exe
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\Prototype\Prototype\bin\Debug\Prototype.pdb
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\Prototype\Prototype\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\Prototype\Prototype\obj\x86\Debug\Prototype.exe
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\Prototype\Prototype\obj\x86\Debug\Prototype.pdb

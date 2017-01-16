@@ -1,0 +1,9 @@
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\Builder\Builder\bin\Debug\Builder.exe
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\Builder\Builder\bin\Debug\Builder.pdb
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\Builder\Builder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\Builder\Builder\obj\x86\Debug\Builder.Form1.resources
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\Builder\Builder\obj\x86\Debug\Builder.Properties.Resources.resources
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\Builder\Builder\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\Builder\Builder\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\Builder\Builder\obj\x86\Debug\Builder.exe
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\Builder\Builder\obj\x86\Debug\Builder.pdb

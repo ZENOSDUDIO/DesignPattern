@@ -1,0 +1,7 @@
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\Observer\Observer\bin\Debug\Observer.exe
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\Observer\Observer\bin\Debug\Observer.pdb
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\Observer\Observer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\Observer\Observer\obj\x86\Debug\Observer.exe
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\Observer\Observer\obj\x86\Debug\Observer.pdb
+C:\My Archives\Microsoft\Training Kits\Demos\Design Patterns\Observer\Observer\obj\x86\Debug\Observer.exe
+C:\My Archives\Microsoft\Training Kits\Demos\Design Patterns\Observer\Observer\obj\x86\Debug\Observer.pdb

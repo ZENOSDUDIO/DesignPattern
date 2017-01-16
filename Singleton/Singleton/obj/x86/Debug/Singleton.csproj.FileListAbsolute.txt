@@ -1,0 +1,7 @@
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\Singleton\Singleton\bin\Debug\Singleton.exe
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\Singleton\Singleton\bin\Debug\Singleton.pdb
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\Singleton\Singleton\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\Singleton\Singleton\obj\x86\Debug\Singleton.exe
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\Singleton\Singleton\obj\x86\Debug\Singleton.pdb
+C:\My Archives\Microsoft\Training Kits\Demos\Design Patterns\Singleton\Singleton\obj\x86\Debug\Singleton.exe
+C:\My Archives\Microsoft\Training Kits\Demos\Design Patterns\Singleton\Singleton\obj\x86\Debug\Singleton.pdb

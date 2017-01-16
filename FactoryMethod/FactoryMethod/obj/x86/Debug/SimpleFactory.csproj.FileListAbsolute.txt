@@ -1,0 +1,7 @@
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\SimpleFactory\SimpleFactory\bin\Debug\SimpleFactory.exe
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\SimpleFactory\SimpleFactory\bin\Debug\SimpleFactory.pdb
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\SimpleFactory\SimpleFactory\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\SimpleFactory\SimpleFactory\obj\x86\Debug\SimpleFactory.exe
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\SimpleFactory\SimpleFactory\obj\x86\Debug\SimpleFactory.pdb
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\Factory\SimpleFactory\obj\x86\Debug\SimpleFactory.exe
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\Factory\SimpleFactory\obj\x86\Debug\SimpleFactory.pdb

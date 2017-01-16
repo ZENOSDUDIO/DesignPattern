@@ -1,0 +1,5 @@
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.exe
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.pdb
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\TemplateMethod\TemplateMethod\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\TemplateMethod\TemplateMethod\obj\x86\Debug\TemplateMethod.exe
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\TemplateMethod\TemplateMethod\obj\x86\Debug\TemplateMethod.pdb

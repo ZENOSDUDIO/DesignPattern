@@ -1,0 +1,7 @@
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\ResponsibilityChain\ResponsibilityChain\bin\Debug\ResponsibilityChain.exe
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\ResponsibilityChain\ResponsibilityChain\bin\Debug\ResponsibilityChain.pdb
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\ResponsibilityChain\ResponsibilityChain\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\ResponsibilityChain\ResponsibilityChain\obj\x86\Debug\ResponsibilityChain.exe
+C:\My Own Projects\Jeff\Development\CD.SPC\Training Kits\Demos\Design Patterns\ResponsibilityChain\ResponsibilityChain\obj\x86\Debug\ResponsibilityChain.pdb
+C:\My Archives\Microsoft\Training Kits\Demos\Design Patterns\ResponsibilityChain\ResponsibilityChain\obj\x86\Debug\ResponsibilityChain.exe
+C:\My Archives\Microsoft\Training Kits\Demos\Design Patterns\ResponsibilityChain\ResponsibilityChain\obj\x86\Debug\ResponsibilityChain.pdb
